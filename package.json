@@ -1,0 +1,33 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    
+    
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poonehk/Project.git"
+  },
+  "keywords": [
+    "education",
+    "math"
+  ],
+  "author": "Pooneh Kardgar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/poonehk/Project/issues"
+  },
+  "homepage": "https://github.com/poonehk/Project#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
