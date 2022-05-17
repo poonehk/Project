@@ -15,6 +15,6 @@
 * SQL
 
 ## ERD:
-! [Image](http://url/erd.jpg)
+! [ERD](http://url/erd.jpg)
 
 
